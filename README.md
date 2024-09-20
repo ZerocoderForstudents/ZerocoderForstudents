@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi there 👋
 
 <!--
 I am a **Prompt Engineer** and **AI Specialist** with expertise in integrating AI technologies into business processes.
